@@ -893,4 +893,9 @@
           flex-direction: column;
           align-items: flex-start;
         }
+        .join-btn{
+                padding: .3rem 1rem;
+                font-size: .9rem;
+                margin-left: 12px;
+            }
       }
