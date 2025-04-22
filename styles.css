@@ -19,6 +19,10 @@
         margin: 0;
         box-sizing: border-box;
       }
+      html{
+        width: 100vw;
+        overflow-x: hidden;
+      }
 
       body {
         font-family: "Inter", sans-serif;
@@ -816,7 +820,7 @@
         }
 
         .footer__container {
-          grid-template-columns: repeat(2, 1fr);
+          grid-template-columns: auto;
         }
       }
 
