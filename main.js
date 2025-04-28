@@ -143,7 +143,10 @@ function initializeCounters() {
                 <span class="counter" data-target="6">0</span>
                 <p>Expert Trainers</p>
             </div>
-            
+            <div class="stats__card">
+                <span class="counter" data-target="10">0</span>
+                <p>Weekly Classes</p>
+            </div>
             <div class="stats__card">
                 <span class="counter" data-target="5">0</span>
                 <p>Years Experience</p>
