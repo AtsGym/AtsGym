@@ -684,7 +684,7 @@ function initializeMembershipCalculator() {
                     <label>Add Nutrition Plan</label>
                     <div class="toggle__option">
                         <input type="checkbox" id="nutritionPlan">
-                        <span class="toggle__label">Add for ₹999/month</span>
+                        <span class="toggle__label">Add for ₹49/month</span>
                     </div>
                 </div>
             </div>
