@@ -136,19 +136,19 @@ function initializeCounters() {
         </p>
         <div class="stats__grid">
             <div class="stats__card">
-                <span class="counter" data-target="500">0</span>
+                <span class="counter" data-target="100">0</span>
                 <p>Happy Members</p>
             </div>
             <div class="stats__card">
-                <span class="counter" data-target="10">0</span>
+                <span class="counter" data-target="6">0</span>
                 <p>Expert Trainers</p>
             </div>
+            // <div class="stats__card">
+            //     <span class="counter" data-target="100">0</span>
+            //     <p>Weekly Classes</p>
+            // </div>
             <div class="stats__card">
-                <span class="counter" data-target="100">0</span>
-                <p>Weekly Classes</p>
-            </div>
-            <div class="stats__card">
-                <span class="counter" data-target="10">0</span>
+                <span class="counter" data-target="5">0</span>
                 <p>Years Experience</p>
             </div>
         </div>
